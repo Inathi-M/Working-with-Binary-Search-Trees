@@ -1,0 +1,10 @@
+Zimbabwe = 12437
+England = 93363
+Cyprus = 3871
+Malaysia = 193381
+Turkey = 194336
+Burundi = 62
+Grenada = 123
+Costa Rica = 11140
+Pakistan = 638667
+Belgium = 65582

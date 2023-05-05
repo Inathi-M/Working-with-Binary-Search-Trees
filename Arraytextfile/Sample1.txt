@@ -1,0 +1,991 @@
+There are  6619 iterations for Bahrain
+There are  2540 iterations for Oman
+There are  6704 iterations for Kuwait
+There are  4277 iterations for Armenia
+There are  8335 iterations for Sint Maarten (Dutch part)
+There are  2849 iterations for Oceania
+There are  7270 iterations for Belize
+There are  8762 iterations for Papua New Guinea
+There are  518 iterations for Bulgaria
+There are  195 iterations for Mongolia
+Nauru = <Not Found>
+There are  3346 iterations for England
+There are  9904 iterations for Cyprus
+There are  503 iterations for Estonia
+There are  8142 iterations for Cambodia
+There are  2348 iterations for Albania
+There are  3786 iterations for Portugal
+There are  195 iterations for Mongolia
+There are  7246 iterations for Northern Ireland
+There are  195 iterations for Mongolia
+There are  8972 iterations for Hungary
+There are  2774 iterations for Kyrgyzstan
+There are  6085 iterations for Qatar
+There are  8664 iterations for Wales
+There are  5992 iterations for Comoros
+There are  7779 iterations for Suriname
+There are  6149 iterations for Vietnam
+There are  1063 iterations for Netherlands
+There are  195 iterations for Mongolia
+There are  2109 iterations for Belgium
+There are  5515 iterations for Ecuador
+There are  7484 iterations for Lower middle income
+There are  899 iterations for Senegal
+There are  7408 iterations for Greenland
+There are  4610 iterations for Australia
+There are  5084 iterations for South Sudan
+There are  3943 iterations for Switzerland
+There are  7270 iterations for Belize
+There are  179 iterations for Georgia
+Andorra = <Not Found>
+There are  7498 iterations for Uruguay
+There are  355 iterations for Bhutan
+There are  7581 iterations for Slovenia
+There are  640 iterations for Anguilla
+There are  2348 iterations for Albania
+There are  7246 iterations for Northern Ireland
+There are  7878 iterations for Liberia
+There are  1792 iterations for Kenya
+There are  8803 iterations for United Arab Emirates
+There are  722 iterations for Asia
+There are  1628 iterations for Greece
+There are  2774 iterations for Kyrgyzstan
+There are  518 iterations for Bulgaria
+Tanzania = <Not Found>
+There are  2802 iterations for Maldives
+There are  7484 iterations for Lower middle income
+There are  1436 iterations for Costa Rica
+There are  9275 iterations for Bolivia
+There are  8335 iterations for Sint Maarten (Dutch part)
+There are  1849 iterations for New Caledonia
+There are  4010 iterations for China
+There are  8803 iterations for United Arab Emirates
+There are  355 iterations for Bhutan
+There are  816 iterations for Spain
+There are  9292 iterations for Guernsey
+There are  7781 iterations for Lebanon
+There are  1294 iterations for Czechia
+There are  1312 iterations for Djibouti
+There are  7760 iterations for Tajikistan
+There are  1163 iterations for Guinea
+There are  913 iterations for Egypt
+There are  4513 iterations for Macao
+There are  5774 iterations for Tunisia
+There are  3346 iterations for England
+There are  3967 iterations for Austria
+There are  2760 iterations for Saudi Arabia
+There are  3439 iterations for European Union
+There are  4582 iterations for Bangladesh
+There are  2177 iterations for Isle of Man
+There are  8923 iterations for Jordan
+There are  2580 iterations for El Salvador
+There are  87 iterations for Cape Verde
+There are  6085 iterations for Qatar
+There are  7408 iterations for Greenland
+There are  2800 iterations for Grenada
+There are  7779 iterations for Suriname
+There are  6694 iterations for Serbia
+There are  987 iterations for Syria
+There are  1294 iterations for Czechia
+There are  6149 iterations for Vietnam
+There are  3786 iterations for Portugal
+There are  9757 iterations for Africa
+There are  6010 iterations for Italy
+There are  1840 iterations for Ukraine
+There are  6281 iterations for Thailand
+There are  7955 iterations for Montserrat
+There are  2286 iterations for Trinidad and Tobago
+There are  7444 iterations for Guatemala
+There are  2774 iterations for Kyrgyzstan
+There are  5774 iterations for Tunisia
+There are  9872 iterations for North Macedonia
+There are  2580 iterations for El Salvador
+There are  797 iterations for Fiji
+There are  6885 iterations for Colombia
+There are  614 iterations for Rwanda
+There are  2849 iterations for Oceania
+There are  4921 iterations for Malawi
+There are  1294 iterations for Czechia
+There are  5343 iterations for Canada
+There are  3385 iterations for High income
+There are  6559 iterations for Dominica
+There are  4087 iterations for Sierra Leone
+There are  9125 iterations for Uzbekistan
+There are  8366 iterations for Moldova
+There are  4277 iterations for Armenia
+There are  2138 iterations for Cote d'Ivoire
+There are  1924 iterations for Angola
+There are  4088 iterations for Yemen
+There are  5308 iterations for Germany
+There are  2760 iterations for Saudi Arabia
+There are  7760 iterations for Tajikistan
+There are  2802 iterations for Maldives
+There are  7444 iterations for Guatemala
+Gabon = <Not Found>
+There are  4144 iterations for Barbados
+There are  1437 iterations for Burundi
+There are  4074 iterations for Europe
+There are  7827 iterations for South Africa
+There are  7760 iterations for Tajikistan
+There are  9159 iterations for Samoa
+There are  640 iterations for Anguilla
+There are  7581 iterations for Slovenia
+There are  2109 iterations for Belgium
+There are  2844 iterations for Honduras
+There are  353 iterations for South America
+There are  2802 iterations for Maldives
+There are  913 iterations for Egypt
+There are  722 iterations for Asia
+There are  4087 iterations for Sierra Leone
+There are  2109 iterations for Belgium
+There are  4144 iterations for Barbados
+There are  2732 iterations for Panama
+There are  2177 iterations for Isle of Man
+There are  8818 iterations for Turks and Caicos Islands
+There are  1042 iterations for Paraguay
+There are  8987 iterations for Nepal
+There are  1467 iterations for Finland
+There are  8072 iterations for Laos
+There are  6149 iterations for Vietnam
+There are  2608 iterations for British Virgin Islands
+There are  7269 iterations for Jamaica
+Tonga = <Not Found>
+There are  1034 iterations for Hong Kong
+There are  5774 iterations for Tunisia
+There are  4783 iterations for Iran
+There are  2732 iterations for Panama
+There are  5356 iterations for Chile
+There are  9873 iterations for United Kingdom
+There are  518 iterations for Bulgaria
+There are  7781 iterations for Lebanon
+There are  2608 iterations for British Virgin Islands
+There are  4305 iterations for French Polynesia
+There are  5293 iterations for Libya
+There are  2540 iterations for Oman
+There are  8279 iterations for San Marino
+There are  4074 iterations for Europe
+There are  2292 iterations for Algeria
+There are  7246 iterations for Northern Ireland
+There are  1467 iterations for Finland
+There are  5652 iterations for Democratic Republic of Congo
+There are  353 iterations for South America
+There are  4513 iterations for Macao
+There are  7878 iterations for Liberia
+There are  1682 iterations for Jersey
+There are  9113 iterations for Cayman Islands
+There are  2067 iterations for Chad
+There are  8636 iterations for North America
+There are  8072 iterations for Laos
+There are  9175 iterations for Bermuda
+There are  2844 iterations for Honduras
+There are  4767 iterations for Mexico
+Gabon = <Not Found>
+There are  8191 iterations for Bahamas
+There are  7915 iterations for Lithuania
+There are  6870 iterations for Mauritania
+There are  4921 iterations for Malawi
+There are  8818 iterations for Turks and Caicos Islands
+There are  1964 iterations for Uganda
+There are  3943 iterations for Switzerland
+There are  8191 iterations for Bahamas
+There are  6752 iterations for Montenegro
+There are  8155 iterations for Malaysia
+There are  5343 iterations for Canada
+There are  1924 iterations for Angola
+There are  5515 iterations for Ecuador
+There are  8894 iterations for Ghana
+There are  2849 iterations for Oceania
+There are  9705 iterations for Nigeria
+There are  7269 iterations for Jamaica
+There are  8636 iterations for North America
+There are  1437 iterations for Burundi
+There are  1964 iterations for Uganda
+There are  7246 iterations for Northern Ireland
+There are  8975 iterations for Antigua and Barbuda
+There are  6085 iterations for Qatar
+There are  1510 iterations for Cook Islands
+There are  7760 iterations for Tajikistan
+There are  4396 iterations for Sudan
+There are  1316 iterations for Malta
+There are  878 iterations for Aruba
+There are  7112 iterations for Sweden
+There are  1312 iterations for Djibouti
+There are  722 iterations for Asia
+There are  8923 iterations for Jordan
+There are  2800 iterations for Grenada
+There are  7878 iterations for Liberia
+There are  5724 iterations for Saint Lucia
+There are  7408 iterations for Greenland
+There are  8987 iterations for Nepal
+There are  518 iterations for Bulgaria
+There are  7112 iterations for Sweden
+There are  355 iterations for Bhutan
+There are  3967 iterations for Austria
+There are  2945 iterations for Turkey
+There are  1510 iterations for Cook Islands
+There are  353 iterations for South America
+There are  2844 iterations for Honduras
+There are  9798 iterations for Ethiopia
+There are  738 iterations for Low income
+There are  7270 iterations for Belize
+There are  7349 iterations for Luxembourg
+There are  6870 iterations for Mauritania
+There are  5343 iterations for Canada
+There are  2760 iterations for Saudi Arabia
+There are  8870 iterations for Scotland
+There are  7779 iterations for Suriname
+There are  1704 iterations for Liechtenstein
+There are  3876 iterations for Afghanistan
+There are  2109 iterations for Belgium
+There are  9267 iterations for Guinea-Bissau
+There are  1316 iterations for Malta
+There are  2177 iterations for Isle of Man
+Togo = <Not Found>
+There are  7805 iterations for Argentina
+There are  5945 iterations for Botswana
+There are  1603 iterations for Timor
+There are  7408 iterations for Greenland
+There are  4610 iterations for Australia
+There are  6010 iterations for Italy
+There are  5515 iterations for Ecuador
+There are  3786 iterations for Portugal
+There are  2013 iterations for Upper middle income
+There are  7349 iterations for Luxembourg
+There are  797 iterations for Fiji
+There are  4362 iterations for Somalia
+There are  6885 iterations for Colombia
+There are  4767 iterations for Mexico
+There are  1463 iterations for Curacao
+There are  3346 iterations for England
+There are  518 iterations for Bulgaria
+There are  7805 iterations for Argentina
+There are  3930 iterations for Faeroe Islands
+There are  5945 iterations for Botswana
+There are  6559 iterations for Dominica
+There are  3943 iterations for Switzerland
+There are  775 iterations for Solomon Islands
+There are  2013 iterations for Upper middle income
+There are  3383 iterations for Kazakhstan
+There are  4305 iterations for French Polynesia
+There are  2013 iterations for Upper middle income
+There are  2732 iterations for Panama
+There are  5317 iterations for Vanuatu
+There are  2732 iterations for Panama
+There are  7581 iterations for Slovenia
+There are  8406 iterations for Kosovo
+There are  1034 iterations for Hong Kong
+There are  4010 iterations for China
+There are  3759 iterations for Brunei
+There are  9175 iterations for Bermuda
+There are  2348 iterations for Albania
+There are  9904 iterations for Cyprus
+There are  9275 iterations for Bolivia
+There are  839 iterations for Indonesia
+There are  6213 iterations for Japan
+Tonga = <Not Found>
+There are  9903 iterations for Croatia
+There are  1034 iterations for Hong Kong
+There are  797 iterations for Fiji
+There are  1316 iterations for Malta
+There are  868 iterations for Iraq
+There are  8991 iterations for United States
+There are  9113 iterations for Cayman Islands
+There are  8664 iterations for Wales
+There are  9113 iterations for Cayman Islands
+There are  355 iterations for Bhutan
+There are  614 iterations for Rwanda
+There are  1063 iterations for Netherlands
+There are  7484 iterations for Lower middle income
+There are  4179 iterations for Nicaragua
+There are  4087 iterations for Sierra Leone
+Andorra = <Not Found>
+There are  6559 iterations for Dominica
+There are  816 iterations for Spain
+There are  7779 iterations for Suriname
+There are  3068 iterations for New Zealand
+Togo = <Not Found>
+There are  816 iterations for Spain
+There are  353 iterations for South America
+There are  1628 iterations for Greece
+There are  4767 iterations for Mexico
+There are  8147 iterations for Gibraltar
+There are  4983 iterations for Denmark
+There are  822 iterations for Venezuela
+There are  8972 iterations for Hungary
+There are  7580 iterations for Guyana
+There are  3346 iterations for England
+There are  775 iterations for Solomon Islands
+There are  6149 iterations for Vietnam
+There are  828 iterations for Central African Republic
+There are  2138 iterations for Cote d'Ivoire
+There are  1628 iterations for Greece
+There are  839 iterations for Indonesia
+There are  8987 iterations for Nepal
+There are  9125 iterations for Uzbekistan
+There are  614 iterations for Rwanda
+There are  9872 iterations for North Macedonia
+There are  8975 iterations for Antigua and Barbuda
+There are  3068 iterations for New Zealand
+There are  8287 iterations for Brazil
+There are  839 iterations for Indonesia
+There are  4074 iterations for Europe
+Nauru = <Not Found>
+There are  4144 iterations for Barbados
+There are  4453 iterations for Madagascar
+There are  4778 iterations for Singapore
+There are  7860 iterations for Azerbaijan
+There are  904 iterations for Saint Kitts and Nevis
+There are  9705 iterations for Nigeria
+There are  8803 iterations for United Arab Emirates
+There are  7130 iterations for South Korea
+There are  1316 iterations for Malta
+There are  5977 iterations for Romania
+There are  904 iterations for Saint Kitts and Nevis
+There are  7842 iterations for Eswatini
+There are  4921 iterations for Malawi
+There are  5317 iterations for Vanuatu
+There are  7408 iterations for Greenland
+There are  9175 iterations for Bermuda
+There are  2348 iterations for Albania
+There are  3930 iterations for Faeroe Islands
+There are  4144 iterations for Barbados
+There are  9275 iterations for Bolivia
+There are  9125 iterations for Uzbekistan
+There are  3439 iterations for European Union
+There are  1316 iterations for Malta
+There are  6694 iterations for Serbia
+There are  3346 iterations for England
+There are  3266 iterations for Sri Lanka
+There are  868 iterations for Iraq
+Tonga = <Not Found>
+There are  1437 iterations for Burundi
+There are  8636 iterations for North America
+There are  1510 iterations for Cook Islands
+There are  5343 iterations for Canada
+There are  2138 iterations for Cote d'Ivoire
+There are  1163 iterations for Guinea
+There are  7130 iterations for South Korea
+There are  8991 iterations for United States
+There are  878 iterations for Aruba
+There are  6406 iterations for Namibia
+There are  8972 iterations for Hungary
+There are  9903 iterations for Croatia
+There are  904 iterations for Saint Kitts and Nevis
+There are  2286 iterations for Trinidad and Tobago
+There are  4778 iterations for Singapore
+There are  775 iterations for Solomon Islands
+There are  503 iterations for Estonia
+There are  6033 iterations for Poland
+There are  4921 iterations for Malawi
+There are  1905 iterations for Iceland
+There are  816 iterations for Spain
+There are  3930 iterations for Faeroe Islands
+There are  5308 iterations for Germany
+There are  3967 iterations for Austria
+There are  5065 iterations for Saint Vincent and the Grenadines
+There are  8155 iterations for Malaysia
+There are  8335 iterations for Sint Maarten (Dutch part)
+There are  10 iterations for India
+There are  6885 iterations for Colombia
+There are  899 iterations for Senegal
+There are  640 iterations for Anguilla
+There are  8996 iterations for Israel
+There are  3521 iterations for Latvia
+There are  3385 iterations for High income
+There are  904 iterations for Saint Kitts and Nevis
+There are  9267 iterations for Guinea-Bissau
+There are  2067 iterations for Chad
+There are  10 iterations for India
+There are  7860 iterations for Azerbaijan
+There are  8287 iterations for Brazil
+There are  1312 iterations for Djibouti
+There are  7349 iterations for Luxembourg
+There are  1905 iterations for Iceland
+There are  913 iterations for Egypt
+There are  179 iterations for Georgia
+There are  1355 iterations for Peru
+There are  775 iterations for Solomon Islands
+There are  6885 iterations for Colombia
+There are  206 iterations for World
+There are  3266 iterations for Sri Lanka
+There are  8191 iterations for Bahamas
+There are  4362 iterations for Somalia
+There are  4495 iterations for Zambia
+There are  2540 iterations for Oman
+There are  3930 iterations for Faeroe Islands
+There are  7444 iterations for Guatemala
+There are  1463 iterations for Curacao
+There are  878 iterations for Aruba
+There are  987 iterations for Syria
+There are  5356 iterations for Chile
+There are  8287 iterations for Brazil
+There are  5065 iterations for Saint Vincent and the Grenadines
+There are  5977 iterations for Romania
+There are  9175 iterations for Bermuda
+There are  1840 iterations for Ukraine
+There are  722 iterations for Asia
+There are  2580 iterations for El Salvador
+There are  518 iterations for Bulgaria
+There are  5945 iterations for Botswana
+There are  7581 iterations for Slovenia
+There are  6213 iterations for Japan
+There are  5317 iterations for Vanuatu
+There are  3876 iterations for Afghanistan
+There are  5293 iterations for Libya
+There are  7827 iterations for South Africa
+There are  1294 iterations for Czechia
+There are  195 iterations for Mongolia
+There are  5652 iterations for Democratic Republic of Congo
+There are  6694 iterations for Serbia
+There are  5515 iterations for Ecuador
+There are  9904 iterations for Cyprus
+There are  1840 iterations for Ukraine
+There are  3943 iterations for Switzerland
+There are  8191 iterations for Bahamas
+There are  9873 iterations for United Kingdom
+There are  6406 iterations for Namibia
+There are  6213 iterations for Japan
+There are  1437 iterations for Burundi
+There are  7349 iterations for Luxembourg
+There are  2732 iterations for Panama
+There are  6149 iterations for Vietnam
+There are  8687 iterations for Mali
+There are  7444 iterations for Guatemala
+Togo = <Not Found>
+There are  4396 iterations for Sudan
+There are  3759 iterations for Brunei
+There are  2849 iterations for Oceania
+There are  722 iterations for Asia
+There are  4305 iterations for French Polynesia
+There are  3930 iterations for Faeroe Islands
+There are  8335 iterations for Sint Maarten (Dutch part)
+There are  9292 iterations for Guernsey
+There are  1316 iterations for Malta
+There are  7827 iterations for South Africa
+There are  8335 iterations for Sint Maarten (Dutch part)
+There are  3266 iterations for Sri Lanka
+There are  1510 iterations for Cook Islands
+There are  8923 iterations for Jordan
+There are  4767 iterations for Mexico
+There are  8894 iterations for Ghana
+Andorra = <Not Found>
+There are  9125 iterations for Uzbekistan
+There are  8687 iterations for Mali
+There are  8636 iterations for North America
+There are  6752 iterations for Montenegro
+There are  2844 iterations for Honduras
+There are  8687 iterations for Mali
+There are  987 iterations for Syria
+There are  5977 iterations for Romania
+There are  4010 iterations for China
+There are  8923 iterations for Jordan
+There are  5515 iterations for Ecuador
+There are  3786 iterations for Portugal
+There are  828 iterations for Central African Republic
+There are  7498 iterations for Uruguay
+There are  1924 iterations for Angola
+There are  7842 iterations for Eswatini
+There are  4495 iterations for Zambia
+There are  1355 iterations for Peru
+There are  8972 iterations for Hungary
+There are  5724 iterations for Saint Lucia
+There are  8664 iterations for Wales
+There are  353 iterations for South America
+There are  3943 iterations for Switzerland
+There are  5977 iterations for Romania
+There are  3967 iterations for Austria
+There are  195 iterations for Mongolia
+There are  5343 iterations for Canada
+There are  3383 iterations for Kazakhstan
+There are  4663 iterations for Russia
+There are  1163 iterations for Guinea
+There are  4087 iterations for Sierra Leone
+Sao Tome and Principe = <Not Found>
+There are  3266 iterations for Sri Lanka
+There are  2849 iterations for Oceania
+There are  1603 iterations for Timor
+There are  7444 iterations for Guatemala
+There are  775 iterations for Solomon Islands
+There are  4582 iterations for Bangladesh
+There are  3266 iterations for Sri Lanka
+There are  7349 iterations for Luxembourg
+There are  7860 iterations for Azerbaijan
+There are  4582 iterations for Bangladesh
+There are  1905 iterations for Iceland
+There are  1603 iterations for Timor
+There are  5977 iterations for Romania
+There are  8894 iterations for Ghana
+There are  179 iterations for Georgia
+There are  8762 iterations for Papua New Guinea
+There are  9154 iterations for Kiribati
+There are  6885 iterations for Colombia
+There are  3383 iterations for Kazakhstan
+There are  5774 iterations for Tunisia
+There are  2286 iterations for Trinidad and Tobago
+There are  1034 iterations for Hong Kong
+There are  6149 iterations for Vietnam
+There are  640 iterations for Anguilla
+There are  9154 iterations for Kiribati
+There are  9125 iterations for Uzbekistan
+There are  9757 iterations for Africa
+There are  10 iterations for India
+There are  2849 iterations for Oceania
+There are  1042 iterations for Paraguay
+There are  1043 iterations for Morocco
+There are  3341 iterations for Ireland
+There are  6694 iterations for Serbia
+There are  7860 iterations for Azerbaijan
+There are  1704 iterations for Liechtenstein
+There are  2732 iterations for Panama
+There are  7270 iterations for Belize
+There are  8217 iterations for Cuba
+There are  2540 iterations for Oman
+There are  8987 iterations for Nepal
+There are  195 iterations for Mongolia
+There are  722 iterations for Asia
+There are  4396 iterations for Sudan
+There are  904 iterations for Saint Kitts and Nevis
+There are  1463 iterations for Curacao
+There are  614 iterations for Rwanda
+There are  5992 iterations for Comoros
+There are  9159 iterations for Samoa
+There are  7444 iterations for Guatemala
+There are  5406 iterations for Pakistan
+There are  1063 iterations for Netherlands
+There are  8991 iterations for United States
+There are  904 iterations for Saint Kitts and Nevis
+There are  206 iterations for World
+There are  6870 iterations for Mauritania
+Cameroon = <Not Found>
+There are  1163 iterations for Guinea
+There are  6704 iterations for Kuwait
+There are  1034 iterations for Hong Kong
+There are  87 iterations for Cape Verde
+There are  868 iterations for Iraq
+There are  6213 iterations for Japan
+There are  1628 iterations for Greece
+There are  7484 iterations for Lower middle income
+There are  4433 iterations for Slovakia
+There are  7269 iterations for Jamaica
+There are  8147 iterations for Gibraltar
+There are  816 iterations for Spain
+There are  7878 iterations for Liberia
+There are  8406 iterations for Kosovo
+There are  1989 iterations for Mozambique
+There are  7878 iterations for Liberia
+There are  7827 iterations for South Africa
+There are  7827 iterations for South Africa
+There are  2608 iterations for British Virgin Islands
+There are  195 iterations for Mongolia
+There are  8972 iterations for Hungary
+There are  3930 iterations for Faeroe Islands
+There are  2844 iterations for Honduras
+There are  738 iterations for Low income
+There are  5992 iterations for Comoros
+There are  2760 iterations for Saudi Arabia
+There are  7270 iterations for Belize
+Togo = <Not Found>
+There are  4513 iterations for Macao
+There are  7484 iterations for Lower middle income
+There are  1603 iterations for Timor
+There are  8406 iterations for Kosovo
+There are  1063 iterations for Netherlands
+There are  3266 iterations for Sri Lanka
+There are  3930 iterations for Faeroe Islands
+There are  828 iterations for Central African Republic
+There are  9872 iterations for North Macedonia
+There are  868 iterations for Iraq
+Gambia = <Not Found>
+There are  1792 iterations for Kenya
+There are  179 iterations for Georgia
+There are  4453 iterations for Madagascar
+There are  9113 iterations for Cayman Islands
+There are  3383 iterations for Kazakhstan
+There are  7444 iterations for Guatemala
+There are  3439 iterations for European Union
+There are  8972 iterations for Hungary
+There are  1603 iterations for Timor
+There are  1163 iterations for Guinea
+There are  1628 iterations for Greece
+There are  4277 iterations for Armenia
+Nauru = <Not Found>
+There are  775 iterations for Solomon Islands
+There are  822 iterations for Venezuela
+There are  7842 iterations for Eswatini
+There are  206 iterations for World
+There are  1628 iterations for Greece
+There are  6559 iterations for Dominica
+There are  8664 iterations for Wales
+There are  4495 iterations for Zambia
+There are  4783 iterations for Iran
+There are  5356 iterations for Chile
+There are  9159 iterations for Samoa
+There are  5774 iterations for Tunisia
+There are  1034 iterations for Hong Kong
+There are  3969 iterations for Dominican Republic
+There are  4087 iterations for Sierra Leone
+There are  3385 iterations for High income
+There are  4783 iterations for Iran
+There are  7781 iterations for Lebanon
+There are  4088 iterations for Yemen
+There are  722 iterations for Asia
+There are  5354 iterations for Taiwan
+There are  738 iterations for Low income
+There are  8366 iterations for Moldova
+There are  8072 iterations for Laos
+There are  6033 iterations for Poland
+There are  8664 iterations for Wales
+There are  4983 iterations for Denmark
+There are  2177 iterations for Isle of Man
+There are  1063 iterations for Netherlands
+There are  5406 iterations for Pakistan
+There are  2109 iterations for Belgium
+There are  195 iterations for Mongolia
+There are  2286 iterations for Trinidad and Tobago
+There are  7421 iterations for France
+There are  1682 iterations for Jersey
+There are  839 iterations for Indonesia
+There are  828 iterations for Central African Republic
+There are  2286 iterations for Trinidad and Tobago
+There are  5354 iterations for Taiwan
+There are  1043 iterations for Morocco
+There are  4010 iterations for China
+There are  3786 iterations for Portugal
+There are  1163 iterations for Guinea
+There are  1316 iterations for Malta
+There are  614 iterations for Rwanda
+There are  6870 iterations for Mauritania
+There are  7781 iterations for Lebanon
+There are  2286 iterations for Trinidad and Tobago
+There are  1840 iterations for Ukraine
+There are  1063 iterations for Netherlands
+There are  9903 iterations for Croatia
+There are  8191 iterations for Bahamas
+There are  3266 iterations for Sri Lanka
+There are  5652 iterations for Democratic Republic of Congo
+There are  3506 iterations for Niger
+There are  7408 iterations for Greenland
+There are  8287 iterations for Brazil
+There are  8987 iterations for Nepal
+There are  2580 iterations for El Salvador
+There are  9342 iterations for Norway
+There are  7270 iterations for Belize
+There are  8923 iterations for Jordan
+There are  5515 iterations for Ecuador
+There are  6213 iterations for Japan
+There are  8287 iterations for Brazil
+There are  5149 iterations for Haiti
+There are  8870 iterations for Scotland
+Tanzania = <Not Found>
+There are  899 iterations for Senegal
+There are  6033 iterations for Poland
+There are  2732 iterations for Panama
+There are  7498 iterations for Uruguay
+There are  2177 iterations for Isle of Man
+There are  6619 iterations for Bahrain
+There are  828 iterations for Central African Republic
+There are  1792 iterations for Kenya
+There are  6704 iterations for Kuwait
+There are  839 iterations for Indonesia
+There are  1063 iterations for Netherlands
+There are  5293 iterations for Libya
+There are  3876 iterations for Afghanistan
+There are  738 iterations for Low income
+There are  4396 iterations for Sudan
+There are  7480 iterations for Benin
+There are  7408 iterations for Greenland
+There are  1316 iterations for Malta
+There are  8975 iterations for Antigua and Barbuda
+There are  7580 iterations for Guyana
+There are  9904 iterations for Cyprus
+There are  8762 iterations for Papua New Guinea
+There are  5992 iterations for Comoros
+There are  4010 iterations for China
+There are  9903 iterations for Croatia
+There are  816 iterations for Spain
+There are  2013 iterations for Upper middle income
+There are  4513 iterations for Macao
+There are  9904 iterations for Cyprus
+There are  8803 iterations for United Arab Emirates
+There are  5774 iterations for Tunisia
+There are  4088 iterations for Yemen
+There are  3969 iterations for Dominican Republic
+There are  7408 iterations for Greenland
+There are  5992 iterations for Comoros
+There are  7860 iterations for Azerbaijan
+There are  7580 iterations for Guyana
+There are  1467 iterations for Finland
+There are  4074 iterations for Europe
+There are  5652 iterations for Democratic Republic of Congo
+There are  3876 iterations for Afghanistan
+There are  8072 iterations for Laos
+There are  4362 iterations for Somalia
+There are  8870 iterations for Scotland
+There are  4983 iterations for Denmark
+There are  1792 iterations for Kenya
+There are  3943 iterations for Switzerland
+There are  1042 iterations for Paraguay
+There are  6406 iterations for Namibia
+There are  8664 iterations for Wales
+There are  1063 iterations for Netherlands
+There are  5354 iterations for Taiwan
+Seychelles = <Not Found>
+There are  8072 iterations for Laos
+There are  9267 iterations for Guinea-Bissau
+There are  5317 iterations for Vanuatu
+There are  9845 iterations for Philippines
+There are  899 iterations for Senegal
+There are  3439 iterations for European Union
+There are  179 iterations for Georgia
+Andorra = <Not Found>
+There are  2067 iterations for Chad
+There are  5724 iterations for Saint Lucia
+There are  5652 iterations for Democratic Republic of Congo
+There are  1436 iterations for Costa Rica
+There are  7269 iterations for Jamaica
+There are  355 iterations for Bhutan
+There are  904 iterations for Saint Kitts and Nevis
+There are  2067 iterations for Chad
+There are  7112 iterations for Sweden
+There are  5774 iterations for Tunisia
+There are  8155 iterations for Malaysia
+There are  5406 iterations for Pakistan
+There are  7484 iterations for Lower middle income
+There are  1603 iterations for Timor
+There are  4663 iterations for Russia
+There are  2849 iterations for Oceania
+Palestine = <Not Found>
+There are  8406 iterations for Kosovo
+There are  9275 iterations for Bolivia
+There are  4495 iterations for Zambia
+There are  8142 iterations for Cambodia
+There are  7719 iterations for Bosnia and Herzegovina
+There are  7915 iterations for Lithuania
+There are  4921 iterations for Malawi
+There are  2945 iterations for Turkey
+There are  3439 iterations for European Union
+There are  904 iterations for Saint Kitts and Nevis
+There are  8991 iterations for United States
+There are  7760 iterations for Tajikistan
+Seychelles = <Not Found>
+There are  8287 iterations for Brazil
+There are  7498 iterations for Uruguay
+There are  9154 iterations for Kiribati
+There are  2945 iterations for Turkey
+There are  5992 iterations for Comoros
+There are  3876 iterations for Afghanistan
+There are  6406 iterations for Namibia
+There are  8870 iterations for Scotland
+Sao Tome and Principe = <Not Found>
+There are  6694 iterations for Serbia
+There are  5149 iterations for Haiti
+There are  8923 iterations for Jordan
+There are  640 iterations for Anguilla
+There are  839 iterations for Indonesia
+There are  1294 iterations for Czechia
+There are  8155 iterations for Malaysia
+There are  1989 iterations for Mozambique
+There are  1704 iterations for Liechtenstein
+There are  8687 iterations for Mali
+Andorra = <Not Found>
+There are  1163 iterations for Guinea
+There are  3346 iterations for England
+There are  9175 iterations for Bermuda
+There are  1628 iterations for Greece
+There are  6281 iterations for Thailand
+There are  2067 iterations for Chad
+There are  2849 iterations for Oceania
+There are  4767 iterations for Mexico
+There are  9154 iterations for Kiribati
+There are  1034 iterations for Hong Kong
+There are  775 iterations for Solomon Islands
+There are  8155 iterations for Malaysia
+There are  1312 iterations for Djibouti
+There are  9873 iterations for United Kingdom
+There are  5343 iterations for Canada
+There are  913 iterations for Egypt
+There are  1316 iterations for Malta
+There are  2067 iterations for Chad
+There are  3943 iterations for Switzerland
+There are  6885 iterations for Colombia
+Wallis and Futuna = <Not Found>
+There are  5356 iterations for Chile
+There are  3506 iterations for Niger
+There are  8279 iterations for San Marino
+There are  3439 iterations for European Union
+There are  2732 iterations for Panama
+There are  9154 iterations for Kiribati
+There are  3969 iterations for Dominican Republic
+There are  2774 iterations for Kyrgyzstan
+There are  9915 iterations for Zimbabwe
+There are  4362 iterations for Somalia
+Gambia = <Not Found>
+There are  4783 iterations for Iran
+There are  7498 iterations for Uruguay
+There are  6870 iterations for Mauritania
+There are  9872 iterations for North Macedonia
+There are  3521 iterations for Latvia
+There are  7498 iterations for Uruguay
+There are  1840 iterations for Ukraine
+There are  3786 iterations for Portugal
+There are  4144 iterations for Barbados
+There are  6694 iterations for Serbia
+There are  2292 iterations for Algeria
+There are  987 iterations for Syria
+There are  1989 iterations for Mozambique
+There are  5343 iterations for Canada
+There are  5354 iterations for Taiwan
+There are  9113 iterations for Cayman Islands
+There are  1849 iterations for New Caledonia
+There are  4921 iterations for Malawi
+There are  2540 iterations for Oman
+There are  6213 iterations for Japan
+There are  5356 iterations for Chile
+There are  5308 iterations for Germany
+There are  7408 iterations for Greenland
+There are  1355 iterations for Peru
+There are  5652 iterations for Democratic Republic of Congo
+There are  2802 iterations for Maldives
+There are  6704 iterations for Kuwait
+There are  9244 iterations for Myanmar
+There are  5343 iterations for Canada
+There are  5515 iterations for Ecuador
+There are  1603 iterations for Timor
+There are  4767 iterations for Mexico
+There are  8636 iterations for North America
+There are  7130 iterations for South Korea
+There are  8975 iterations for Antigua and Barbuda
+There are  6281 iterations for Thailand
+There are  2138 iterations for Cote d'Ivoire
+There are  2348 iterations for Albania
+There are  2540 iterations for Oman
+There are  3068 iterations for New Zealand
+There are  7269 iterations for Jamaica
+Tanzania = <Not Found>
+There are  839 iterations for Indonesia
+There are  4362 iterations for Somalia
+There are  8279 iterations for San Marino
+There are  6085 iterations for Qatar
+There are  2292 iterations for Algeria
+There are  8155 iterations for Malaysia
+There are  8406 iterations for Kosovo
+There are  868 iterations for Iraq
+Burkina Faso = <Not Found>
+There are  9903 iterations for Croatia
+There are  8972 iterations for Hungary
+There are  2067 iterations for Chad
+There are  355 iterations for Bhutan
+There are  9873 iterations for United Kingdom
+There are  7781 iterations for Lebanon
+There are  9342 iterations for Norway
+There are  4610 iterations for Australia
+There are  5724 iterations for Saint Lucia
+There are  4767 iterations for Mexico
+There are  1163 iterations for Guinea
+There are  7842 iterations for Eswatini
+There are  8461 iterations for Belarus
+There are  9873 iterations for United Kingdom
+There are  8803 iterations for United Arab Emirates
+There are  2945 iterations for Turkey
+Tanzania = <Not Found>
+There are  3521 iterations for Latvia
+There are  6870 iterations for Mauritania
+There are  8987 iterations for Nepal
+There are  8987 iterations for Nepal
+There are  822 iterations for Venezuela
+There are  3068 iterations for New Zealand
+There are  2067 iterations for Chad
+There are  7781 iterations for Lebanon
+There are  4778 iterations for Singapore
+There are  5515 iterations for Ecuador
+There are  5945 iterations for Botswana
+There are  6885 iterations for Colombia
+There are  7580 iterations for Guyana
+There are  5317 iterations for Vanuatu
+There are  3385 iterations for High income
+There are  7878 iterations for Liberia
+There are  4010 iterations for China
+There are  6870 iterations for Mauritania
+There are  4983 iterations for Denmark
+There are  4610 iterations for Australia
+There are  3385 iterations for High income
+There are  4277 iterations for Armenia
+There are  3786 iterations for Portugal
+There are  10 iterations for India
+There are  1682 iterations for Jersey
+There are  9267 iterations for Guinea-Bissau
+There are  9267 iterations for Guinea-Bissau
+There are  7421 iterations for France
+There are  4783 iterations for Iran
+There are  6213 iterations for Japan
+There are  7484 iterations for Lower middle income
+There are  738 iterations for Low income
+There are  9915 iterations for Zimbabwe
+There are  7915 iterations for Lithuania
+There are  1905 iterations for Iceland
+There are  2945 iterations for Turkey
+There are  1436 iterations for Costa Rica
+There are  1437 iterations for Burundi
+There are  1436 iterations for Costa Rica
+There are  8923 iterations for Jordan
+There are  4277 iterations for Armenia
+There are  9275 iterations for Bolivia
+There are  8762 iterations for Papua New Guinea
+There are  2013 iterations for Upper middle income
+There are  738 iterations for Low income
+Palestine = <Not Found>
+There are  9845 iterations for Philippines
+There are  1467 iterations for Finland
+There are  7779 iterations for Suriname
+There are  1628 iterations for Greece
+There are  8870 iterations for Scotland
+There are  8636 iterations for North America
+There are  8894 iterations for Ghana
+There are  3506 iterations for Niger
+There are  4453 iterations for Madagascar
+There are  8987 iterations for Nepal
+There are  355 iterations for Bhutan
+There are  3943 iterations for Switzerland
+There are  9267 iterations for Guinea-Bissau
+There are  1034 iterations for Hong Kong
+There are  4433 iterations for Slovakia
+There are  4582 iterations for Bangladesh
+There are  4767 iterations for Mexico
+There are  1463 iterations for Curacao
+There are  10 iterations for India
+There are  2608 iterations for British Virgin Islands
+There are  6033 iterations for Poland
+There are  1467 iterations for Finland
+There are  3786 iterations for Portugal
+There are  7498 iterations for Uruguay
+There are  878 iterations for Aruba
+There are  7270 iterations for Belize
+There are  8072 iterations for Laos
+There are  1437 iterations for Burundi
+There are  8279 iterations for San Marino
+There are  3969 iterations for Dominican Republic
+There are  775 iterations for Solomon Islands
+There are  6559 iterations for Dominica
+There are  9757 iterations for Africa
+There are  8217 iterations for Cuba
+There are  7408 iterations for Greenland
+Andorra = <Not Found>
+There are  9342 iterations for Norway
+There are  8366 iterations for Moldova
+There are  4663 iterations for Russia
+There are  1840 iterations for Ukraine
+There are  9244 iterations for Myanmar
+There are  5992 iterations for Comoros
+There are  1163 iterations for Guinea
+There are  4010 iterations for China
+There are  904 iterations for Saint Kitts and Nevis
+There are  6870 iterations for Mauritania
+There are  3266 iterations for Sri Lanka
+There are  353 iterations for South America
+There are  3969 iterations for Dominican Republic
+There are  1034 iterations for Hong Kong
+There are  6870 iterations for Mauritania
+There are  822 iterations for Venezuela
+There are  4778 iterations for Singapore
+There are  2013 iterations for Upper middle income
+The average case is 5329 |The worst case is 9918 |And the best case is 3

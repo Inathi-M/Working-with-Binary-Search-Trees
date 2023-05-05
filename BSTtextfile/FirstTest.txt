@@ -1,0 +1,11 @@
+South Africa = 50181
+Cyprus = 3393
+Zimbabwe = 12989
+America = <Not Found>
+Japan = 139729
+New Zealand = 23721
+Italy = 489499
+India = 8103784
+France = 555746
+Mexico = 278044
+Canada = 291720

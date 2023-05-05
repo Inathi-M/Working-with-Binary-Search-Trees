@@ -1,0 +1,9 @@
+Cyprus = 3393
+Zimbabwe = 12989
+England = 181342
+Iraq = 36502
+Russian = <Not Found>
+Greece = 63444
+Pakistan = 697715
+Cuba = 67220
+Belgium = 108333
